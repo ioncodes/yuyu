@@ -9,3 +9,5 @@ curl -X POST \
 
 {"id":"htb","url":"https://layle.xyz/htb"}
 ```
+
+`id` can be empty for a random ID.
